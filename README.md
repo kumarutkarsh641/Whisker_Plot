@@ -14,6 +14,11 @@ pip install git+https://github.com/yourusername/Whisker_Plot.git
 
 Replace `yourusername` with your actual GitHub username.
 
+Make Sure The package directory is not in PYTHONPATH: If you're trying to import the module without installing it via pip, ensure the directory containing your package is in the PYTHONPATH environment variable. You can temporarily add it with:
+
+    export PYTHONPATH="${PYTHONPATH}:/path/to/your/package"
+
+
 ## Usage
 
 Here is a simple example of how to use the Whisker Plot package:
