@@ -1,0 +1,6 @@
+setup.py
+Whisker_Plot.egg-info/PKG-INFO
+Whisker_Plot.egg-info/SOURCES.txt
+Whisker_Plot.egg-info/dependency_links.txt
+Whisker_Plot.egg-info/requires.txt
+Whisker_Plot.egg-info/top_level.txt
